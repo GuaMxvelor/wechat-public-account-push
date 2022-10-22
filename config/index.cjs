@@ -23,23 +23,15 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '宝贝','自己'
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o_vsE6Xxt84Q13OqK71ehY4ES60A',
+      id: 'o_vsE6Xxt84Q13OqK71ehY4ES60A','o_vsE6d17AyxeJ825IYnvQtGnAWU'
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'He7sRd8wmzZV5ZFbqXzRmprtF--N23iA0wyaKcvOFUg',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-29',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: 'https://wangxinleo.cn',
-       // 想要发送的人的名字
-      name: '自己',
-      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o_vsE6d17AyxeJ825IYnvQtGnAWU',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'He7sRd8wmzZV5ZFbqXzRmprtF--N23iA0wyaKcvOFUg',
-      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '10-05',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: 'https://wangxinleo.cn',
       festivals: [
